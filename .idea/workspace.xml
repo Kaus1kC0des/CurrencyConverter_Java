@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f9b44d7a-cfe4-4fa9-9911-a5488fb0d6a7" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/CurrencyConverter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CurrencyConverter.java" afterDir="false" />
-    </list>
+    <list default="true" id="f9b44d7a-cfe4-4fa9-9911-a5488fb0d6a7" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,7 +33,6 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "master",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -45,13 +42,6 @@
   }
 }]]></component>
   <component name="RunManager">
-    <configuration name="CurrencyConverter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CurrencyConverter" />
-      <module name="CurrencyConverter" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.CurrencyConverter" />
@@ -66,7 +56,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1700744711707</updated>
-      <workItem from="1700744712709" duration="676000" />
+      <workItem from="1700744712709" duration="1559000" />
     </task>
     <servers />
   </component>
